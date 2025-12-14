@@ -69,7 +69,7 @@ intern_app/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -142,7 +142,7 @@ VALUES ('Admin', 'admin@example.com', '$2y$10$...', 'admin');
 
 ---
 
-## 📸 Pages Overview
+##  Pages Overview
 
 | Page | URL | Description |
 |------|-----|-------------|
@@ -164,7 +164,7 @@ VALUES ('Admin', 'admin@example.com', '$2y$10$...', 'admin');
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available for educational purposes.
 
