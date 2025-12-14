@@ -1,27 +1,27 @@
-# 📋 Intern App
+#  Intern App
 
 A mini internship management system built with **PHP** and **MySQL**. This web application provides user authentication, role-based access control, and user management features.
 
 ---
 
-## ✨ Features
+##  Features
 
-- **🔐 User Authentication**
+- ** User Authentication**
   - Secure login with password hashing
   - User registration with email validation
   - Session-based authentication
   - Logout functionality
 
-- **👥 Role-Based Access Control**
+- ** Role-Based Access Control**
   - Admin role with full access
   - Regular user role with limited access
   - Protected routes based on user roles
 
-- **📊 Dashboard**
+- ** Dashboard**
   - Admin dashboard with user management
   - User dashboard for regular users
 
-- **🛠️ User Management (Admin)**
+- ** User Management (Admin)**
   - View all users
   - Add new users
   - Edit existing users
@@ -29,7 +29,7 @@ A mini internship management system built with **PHP** and **MySQL**. This web a
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 intern_app/
@@ -58,7 +58,7 @@ intern_app/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -129,7 +129,7 @@ intern_app/
 
 ---
 
-## 🔑 Default Admin Setup
+##  Default Admin Setup
 
 To create an admin user, insert directly into the database:
 
@@ -154,7 +154,7 @@ VALUES ('Admin', 'admin@example.com', '$2y$10$...', 'admin');
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 - ✅ Password hashing using `password_hash()` and `password_verify()`
 - ✅ Prepared statements to prevent SQL injection
@@ -170,12 +170,12 @@ This project is open source and available for educational purposes.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **ADI5147**
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ADI5147/intern_app/issues).
